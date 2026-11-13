@@ -1,6 +1,6 @@
 ### axs
 
-Software engineer. 
+Software engineer.\
 I like taking something that works on my machine and making it run on its own: deployed, observed, and honest about its limits.
 
 **How I work**
@@ -15,11 +15,10 @@ I like taking something that works on my machine and making it run on its own: d
 - Finding the real bottleneck with data rather than guessing.
 - Infrastructure I run myself: servers, tunnels, clusters, CI.
 - Finance, markets and on-chain systems, where every bug has a price.
-- Making every system fast and responsive for the lowest possible cost. I measure latency end to end, then cut it: own nodes, RPC benchmarks, geographic placement.
+- Making every system fast and responsive for the lowest possible cost. I measure latency end to end, then cut it.
 - Building tools for the communities I'm part of: Discord bots, game armories and ladders.
 
-**Stack:** Python · TypeScript / Node.js · SQL (PostgreSQL) · PowerShell · PHP · Docker · Kubernetes · Linux
-
+**Stack:** Python · TypeScript / Node.js · SQL (PostgreSQL) · PowerShell · PHP · Docker · Kubernetes · Linux\
 **Microsoft:** Active Directory / Entra ID · Intune · Microsoft 365
 
 **Contact:** [axs@moonbow.gg](mailto:axs@moonbow.gg)
