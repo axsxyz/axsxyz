@@ -19,4 +19,6 @@ I like taking something that works on my machine and making it run on its own: d
 
 **Stack:** Python · TypeScript / Node.js · SQL (PostgreSQL) · PowerShell · PHP · Docker · Kubernetes · Linux
 
+**Microsoft:** Active Directory / Entra ID · Intune · Microsoft 365
+
 **Contact:** [axs@moonbow.gg](mailto:axs@moonbow.gg)
