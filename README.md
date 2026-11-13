@@ -19,7 +19,6 @@ and honest about its limits.
 - Building tools for the communities I'm part of: Discord bots, game armories and ladders.
 - Markets and on-chain systems, where every bug has a price.
 
-**Stack:** Python · TypeScript · SQL · PowerShell · Docker · Kubernetes · Helm · Terraform · PostgreSQL ·
-Prometheus/Grafana · vLLM
+**Stack:** Python · TypeScript / Node.js · SQL (PostgreSQL) · PowerShell · PHP · Docker · Kubernetes · Linux
 
 **Contact:** [axs@moonbow.gg](mailto:axs@moonbow.gg)
