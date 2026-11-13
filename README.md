@@ -1,26 +1,23 @@
 ### axs
 
-Software engineer. I take systems from a working prototype to something that runs unattended, and I measure them before
-I make claims about them.
-
-**Recent work**
-
-- **[mistral-k8s](https://github.com/axsxyz/mistral-k8s):** Ministral 3 served on Kubernetes.
-  - vLLM on GPU and llama.cpp on CPU, deployed with Helm and Terraform, observed with Prometheus and Grafana.
-  - Load-tested to 1,024 concurrent requests and a 10,000-request burst.
-  - `--max-num-seqs` tuned from the KV-cache size: 0 preemptions, p95 time per token halved.
-- **[section23-jobs](https://github.com/axsxyz/section23-jobs):** async ingestion of French job offers from several
-  sources, with deduplication, LLM scoring against a target profile, alerts and a multi-user web board.
-- **[windows-usb-provisioning](https://github.com/axsxyz/windows-usb-provisioning):** a USB kit that provisions Windows
-  11 Pro workstations end to end: apps, Microsoft 365, Entra ID / Intune join, user migration.
-- **[polymarket-lp-bot](https://github.com/axsxyz/polymarket-lp-bot) and [ak-arc](https://github.com/axsxyz/ak-arc):**
-  trading and on-chain systems where every bug has a price: layered guards, paper modes, append-only audit trails.
+Software engineer. I like taking something that works on my machine and making it run on its own: deployed, observed,
+and honest about its limits.
 
 **How I work**
 
-- Agent-first: coding agents under explicit rules, invariants and tests. I care about how to evaluate what they produce.
-- Claims in my READMEs point to a measurement, a test or a commit.
-- My main projects keep a "What broke and how I fixed it" section and their open items in plain sight.
+- **Agent-first.** Coding agents do much of the typing, under explicit rules, invariants and tests. My part is the
+  design, the review, and knowing how to judge what they produce.
+- **Measure before I claim.** A number I publish points to a run, a test or a commit.
+- **Small steps, each proven.** I don't build on a step until I have evidence it works.
+- **Write down what broke.** Incidents, root causes and open items stay visible. A project can be live with open items,
+  as long as they are tracked.
+
+**What I enjoy**
+
+- Finding the real bottleneck with data rather than guessing.
+- Infrastructure I run myself: servers, tunnels, clusters, CI.
+- Building tools for the communities I'm part of: Discord bots, game armories and ladders.
+- Markets and on-chain systems, where every bug has a price.
 
 **Stack:** Python · TypeScript · SQL · PowerShell · Docker · Kubernetes · Helm · Terraform · PostgreSQL ·
 Prometheus/Grafana · vLLM
