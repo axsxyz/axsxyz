@@ -14,7 +14,7 @@ I like taking something that works on my machine and making it run on its own: d
 
 - Finding the real bottleneck with data rather than guessing.
 - Infrastructure I run myself: servers, tunnels, clusters, CI.
-- Finance, markets and on-chain systems, where every bug has a price.
+- Finance, markets and on-chain systems, where every bug and every millisecond has a price: own nodes, RPC benchmarks, geographic placement.
 - Building tools for the communities I'm part of: Discord bots, game armories and ladders.
 
 **Stack:** Python · TypeScript / Node.js · SQL (PostgreSQL) · PowerShell · PHP · Docker · Kubernetes · Linux
